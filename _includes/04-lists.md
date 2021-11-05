@@ -1,4 +1,5 @@
 # Here is a list of my favorite things:
 - Long walks
-- cooking
+- Cooking
 - Learning Git and GitHub
+- Learning new technologies
